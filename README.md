@@ -4,7 +4,7 @@ A collection of clean and well-structured Data Structure implementations written
 This repository is intended for learning, revision, and improving problem-solving skills.
 All code is kept read-only — no external contributions.
 
-📘 Contents
+# Contents
 
 Linked List (Single, Double, Circular)
 
@@ -21,7 +21,7 @@ Searching & Sorting Algorithms
 More structures will be added continuously.
 
 
-🎯 Purpose
+# Purpose
 
 Strengthen understanding of Data Structures
 
@@ -30,14 +30,14 @@ Build a strong foundation for algorithms & problem solving
 Keep code organized and accessible for future reference
 
 
-🛠 Technologies
+# Technologies
 
 Language: C++
 
 Compiler: g++ / MinGW / MSVC
 
 
-📂 Structure
+# Structure
 
 Each folder contains:
 
