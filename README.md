@@ -8,7 +8,7 @@ All code is kept read-only — no external contributions.
 
 Linked List (Single, Double, Circular)
 
-Stack
+Stack:
 
 Queue (Normal & Circular)
 
